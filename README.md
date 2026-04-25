@@ -14,4 +14,4 @@ This repository contains my daily SQL learning journey.
 To become a Data Scientist
 1️⃣ Day 1: Basic SELECT Queries
 
-2️⃣ Day 2: WHERE and ORDER BY practice”
+2️⃣ Day 2: WHERE and ORDER BY practice
