@@ -19,3 +19,5 @@ To become a Data Scientist
 
 3️⃣ Day 3: GROUP BY and aggregate 
            functions
+
+4️⃣ Day 4: JOIN practice
