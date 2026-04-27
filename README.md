@@ -17,7 +17,11 @@ To become a Data Scientist
 
 2️⃣ Day 2: WHERE and ORDER BY practice
 
-3️⃣ Day 3: GROUP BY and aggregate 
+3️⃣ Day 3: GROUP BY and aggregate
+ 
            functions
 
 4️⃣ Day 4: JOIN practice
+
+✅📊 My first project - “Added SQL user
+       creation script”
