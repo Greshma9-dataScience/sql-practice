@@ -25,5 +25,7 @@ To become a Data Scientist
 
 ✅📊 My first project - “Added SQL user
        creation script”
+
 5️⃣ Day 5: Subqueries practice
+
 6️⃣ Day 6: JOIN with GROUP BY practice
