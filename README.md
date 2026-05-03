@@ -1,4 +1,4 @@
-# sql-practice
+Day 7: Window functions practice”# sql-practice
 My daily SQL practice
 # SQL Practice
 
@@ -29,3 +29,5 @@ To become a Data Scientist
 5️⃣ Day 5: Subqueries practice
 
 6️⃣ Day 6: JOIN with GROUP BY practice
+
+7️⃣ Day 7: Window functions practice
