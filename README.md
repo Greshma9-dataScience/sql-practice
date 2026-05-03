@@ -31,3 +31,5 @@ To become a Data Scientist
 6️⃣ Day 6: JOIN with GROUP BY practice
 
 7️⃣ Day 7: Window functions practice
+
+8️⃣ ✅📊 Day 8: SQL Mini Project – "E-commerce Analysis”
