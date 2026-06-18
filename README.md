@@ -32,5 +32,11 @@ To become a Data Scientist
 
 7️⃣ Day 7: Window functions practice
 
-8️⃣ ✅📊 Day 8: SQL Mini Project – "E-commerce Analysis”
+8️⃣ ✅📊 Day 8: SQL Mini Project –
+
+ "E-commerce Analysis”
+
 9️⃣ Day 9: SQL Views Practice
+
+🔟 Day 10: CTE and Interview Queries
+
