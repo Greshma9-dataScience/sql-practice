@@ -38,5 +38,5 @@ To become a Data Scientist
 
 9️⃣ Day 9: SQL Views Practice
 
-🔟 Day 10: CTE and Interview Queries
+🔟 Day 10: CTE and Interview Queries.
 
