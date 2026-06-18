@@ -15,6 +15,7 @@ WITH GradeAverage AS (
     GROUP BY grade
 )
 
+
 SELECT *
 FROM GradeAverage
 WHERE avg_marks > 75;
