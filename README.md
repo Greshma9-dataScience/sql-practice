@@ -40,3 +40,5 @@ To become a Data Scientist
 
 🔟 Day 10: CTE and Interview Queries.
 
+1️⃣1️⃣ Day 11: Indexes ✅
+
