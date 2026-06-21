@@ -1,4 +1,4 @@
-Day 7: Window functions practice”# sql-practice
+ sql-practice
 My daily SQL practice
 # SQL Practice
 
@@ -41,4 +41,8 @@ To become a Data Scientist
 🔟 Day 10: CTE and Interview Queries.
 
 1️⃣1️⃣ Day 11: Indexes ✅
+
+1️⃣2️⃣ Day 12: Stored Procedures ✅
+
+1️⃣3️⃣ Day 13: SQL Functions ✅
 
