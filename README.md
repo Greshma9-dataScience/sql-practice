@@ -1,3 +1,4 @@
+
  sql-practice
 My daily SQL practice
 # SQL Practice
@@ -46,3 +47,4 @@ To become a Data Scientist
 
 1️⃣3️⃣ Day 13: SQL Functions ✅
 
+1️⃣4️⃣ Day 14: SQL Triggers ✅
