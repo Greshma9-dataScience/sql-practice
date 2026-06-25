@@ -50,6 +50,8 @@ To become a Data Scientist
 
 1️⃣4️⃣ Day 14: SQL Triggers ✅
 
-1️⃣5️⃣ Day 15: Top SQL Interview   
+1️⃣5️⃣ Day 15: Top SQL Interview
+   
       Questions✅
+
 1️⃣6️⃣ Day 16: Window Functions ✅
