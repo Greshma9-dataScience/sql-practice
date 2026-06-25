@@ -1,4 +1,5 @@
 
+
  sql-practice
 My daily SQL practice
 # SQL Practice
@@ -51,3 +52,4 @@ To become a Data Scientist
 
 1️⃣5️⃣ Day 15: Top SQL Interview   
       Questions✅
+1️⃣6️⃣ Day 16: Window Functions ✅
