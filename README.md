@@ -1,5 +1,6 @@
 
 
+
  sql-practice
 My daily SQL practice
 # SQL Practice
@@ -55,3 +56,5 @@ To become a Data Scientist
       Questions✅
 
 1️⃣6️⃣ Day 16: Window Functions ✅
+
+1️⃣7️⃣ Day 17: LEAD() and LAG() ✅
