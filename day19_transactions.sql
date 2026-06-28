@@ -37,3 +37,14 @@ WHERE id = 2;
 ROLLBACK TO sp1;
 
 COMMIT;
+
+
+ACID Properties
+A – Atomicity
+అన్ని operations success అవ్వాలి, లేకపోతే ఏదీ save కాకూడదు.
+C – Consistency
+Database valid state లో ఉండాలి.
+I – Isolation
+ఒక transaction ఇంకో transaction ని disturb చేయకూడదు.
+D – Durability
+COMMIT అయిన తర్వాత data permanent.
