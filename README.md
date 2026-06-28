@@ -1,6 +1,7 @@
 
 
 
+
  sql-practice
 My daily SQL practice
 # SQL Practice
@@ -59,3 +60,5 @@ To become a Data Scientist
 
 1️⃣7️⃣ Day 17: LEAD() and LAG() ✅
 1️⃣8️⃣ Day 18: Recursive CTE ✅
+1️⃣9️⃣ Day 19: Transactions (COMMIT,
+             ROLLBACK, SAVEPOINT) ✅
