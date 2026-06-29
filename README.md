@@ -65,3 +65,6 @@ To become a Data Scientist
 1️⃣9️⃣ Day 19: Transactions (COMMIT,
 
              ROLLBACK, SAVEPOINT) ✅
+
+2️⃣0️⃣ Day 20: Database Normalization ✅
+ 
